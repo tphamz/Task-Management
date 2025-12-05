@@ -1,0 +1,7 @@
+{
+  "name": "cleanCommand",
+  "description": "A comprehensive task management solution for cleaning businesses. Manage units, assign tasks, and verify work with photo proof.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
